@@ -1,0 +1,19 @@
+{
+  "name": "guillo",
+  "version": "1.0.0",
+  "description": "Project structure scaffold",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "express": "^5.3.0"
+  }
+}
